@@ -1,9 +1,9 @@
 apiready = function(){
    api.openWin({
-       name: 'page1',
-       url: './page1.html',
+       name: 'index',
+       url: './index.html',
        pageParam: {
-           name: 'test'
+           name: 'index'
        }
    });
 }
